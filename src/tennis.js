@@ -19,6 +19,9 @@ class Tennis {
         if (this.player1Points === 1 && this.player2Points === 0) {
             return "15 - Love";
         }
+        if (this.player1Points === 0 && this.player2Points === 1) {
+            return "Love - 15";
+        }
     }
 }
 export default Tennis;

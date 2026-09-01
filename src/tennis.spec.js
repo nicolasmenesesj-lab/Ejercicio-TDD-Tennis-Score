@@ -11,6 +11,12 @@ describe("Tennis", () => {
     tennis.player1Scores();
     expect(tennis.getScore()).toEqual("15 - Love");
   });
+
+  it("deberia devolver 'Love - 15' cuando el jugador 2 anota un punto", () => {
+    const tennis = new Tennis();
+    tennis.player2Scores();
+    expect(tennis.getScore()).toEqual("Love - 15");
+  });
 });
 
 

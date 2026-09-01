@@ -46,9 +46,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "54dd66b4be298144bc0ac4b51f75b0a49e5aaeb3",
     "commitName": "faet: se muestra 15-love cuando player1 tiene 1 punto y player 2 0",
     "commitTimestamp": 1788272509352,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788272686811,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788272707561,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "faet: se muestra love-15 cuando player1 tiene 0 puntos y player2 1 punto",
+    "commitTimestamp": 1788272749870,
+    "testId": 2
   }
 ]
