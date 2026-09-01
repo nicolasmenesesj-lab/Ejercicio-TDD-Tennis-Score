@@ -16,9 +16,39 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a8ab47886d9986fae6c4d1d2b81dbaf140b96f3e",
     "commitName": "faet: se muestra love-love cuando ningun jugador tiene puntos",
     "commitTimestamp": 1788272097351,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788272395625,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788272412156,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788272441691,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "faet: se muestra 15-love cuando player1 tiene 1 punto y player 2 0",
+    "commitTimestamp": 1788272509352,
+    "testId": 1
   }
 ]

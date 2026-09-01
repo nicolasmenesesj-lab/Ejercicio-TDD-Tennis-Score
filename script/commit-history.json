@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "a8ab47886d9986fae6c4d1d2b81dbaf140b96f3e",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-01T14:14:56.000Z",
       "message": "faet: se muestra love-love cuando ningun jugador tiene puntos",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/a8ab47886d9986fae6c4d1d2b81dbaf140b96f3e"
     },
     "stats": {
       "total": 4,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-01T14:21:48.000Z",
+      "message": "faet: se muestra 15-love cuando player1 tiene 1 punto y player 2 0",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 25,
+      "deletions": 1,
+      "date": "2026-09-01"
+    },
+    "coverage": 88.89,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
