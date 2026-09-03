@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "73a84c35f92295a8acf41039925fcb382b2a9897",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:45:02.000Z",
       "message": "feat: Se anadio el caso especial 2 cuando los 2 jugadores tienen 3 puntos pero uno gana 1 mas para tener el 'Advantage for player #'",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/73a84c35f92295a8acf41039925fcb382b2a9897"
     },
     "stats": {
       "total": 28,
       "additions": 28,
       "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T02:49:48.000Z",
+      "message": "feat: Refactorizacion de la logica de negocios completa pasa todos los tests",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 45,
+      "additions": 13,
+      "deletions": 32,
       "date": "2026-09-03"
     },
     "coverage": 100,

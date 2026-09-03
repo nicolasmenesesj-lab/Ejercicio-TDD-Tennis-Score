@@ -246,9 +246,39 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "73a84c35f92295a8acf41039925fcb382b2a9897",
     "commitName": "feat: Se anadio el caso especial 2 cuando los 2 jugadores tienen 3 puntos pero uno gana 1 mas para tener el 'Advantage for player #'",
     "commitTimestamp": 1788403503583,
     "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 4,
+    "numTotalTests": 13,
+    "timestamp": 1788403606459,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 2,
+    "numTotalTests": 13,
+    "timestamp": 1788403730254,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788403751930,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Refactorizacion de la logica de negocios completa pasa todos los tests",
+    "commitTimestamp": 1788403789111,
+    "testId": 10
   }
 ]
