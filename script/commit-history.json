@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8aba0c0c8ad5470181e426d03190d0a3e038db53",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:21:48.000Z",
       "message": "faet: se muestra love-30 cuando el jugador 2 vaya con 2 puntos y jugador 1 con 0",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/8aba0c0c8ad5470181e426d03190d0a3e038db53"
     },
     "stats": {
       "total": 9,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T02:25:02.000Z",
+      "message": "feat: se muestra el 40-love por los 3 puntos de jugador 1 y love para 0pts de jugador 2",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
