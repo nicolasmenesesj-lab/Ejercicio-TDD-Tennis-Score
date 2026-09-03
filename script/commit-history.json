@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "126f12b4fb2c79fd34bbc74326c68f6b667e0a5c",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:33:24.000Z",
       "message": "feat: se agrego y confirmo el mostrar love-40 para cuando el 2do jugador tenga 3pts y el 1er jugador 0",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/126f12b4fb2c79fd34bbc74326c68f6b667e0a5c"
     },
     "stats": {
       "total": 10,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T02:40:06.000Z",
+      "message": "feat: anadimos el game for player & game for player 2 para cuando cualquiera de los 2 anote 4 puntos",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 22,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

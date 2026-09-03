@@ -180,9 +180,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "126f12b4fb2c79fd34bbc74326c68f6b667e0a5c",
     "commitName": "feat: se agrego y confirmo el mostrar love-40 para cuando el 2do jugador tenga 3pts y el 1er jugador 0",
     "commitTimestamp": 1788402805051,
     "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 2,
+    "numTotalTests": 10,
+    "timestamp": 1788403145698,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788403159710,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: anadimos el game for player & game for player 2 para cuando cualquiera de los 2 anote 4 puntos",
+    "commitTimestamp": 1788403207007,
+    "testId": 7
   }
 ]
