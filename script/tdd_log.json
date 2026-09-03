@@ -202,9 +202,31 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "422a0d9ad50007b312992076e119e2b075b9fe8a",
     "commitName": "feat: anadimos el game for player & game for player 2 para cuando cualquiera de los 2 anote 4 puntos",
     "commitTimestamp": 1788403207007,
     "testId": 7
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788403237598,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788403286802,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se anadio el caso especial deuce",
+    "commitTimestamp": 1788403398489,
+    "testId": 8
   }
 ]

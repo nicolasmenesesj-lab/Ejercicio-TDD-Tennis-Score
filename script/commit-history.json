@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "422a0d9ad50007b312992076e119e2b075b9fe8a",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:40:06.000Z",
       "message": "feat: anadimos el game for player & game for player 2 para cuando cualquiera de los 2 anote 4 puntos",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/422a0d9ad50007b312992076e119e2b075b9fe8a"
     },
     "stats": {
       "total": 22,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T02:43:17.000Z",
+      "message": "feat: se anadio el caso especial deuce",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -59,6 +59,16 @@ describe("Tennis", () => {
     tennis.player2Scores();
     expect(tennis.getScore()).toEqual("Game for Player 2");
   });
+  it ("deberia devolver 'Deuce' cuando ambos jugadores anotan tres puntos", () => {
+    const tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.getScore()).toEqual("Deuce");
+  });
 });
 
 
