@@ -36,6 +36,13 @@ describe("Tennis", () => {
     tennis.player1Scores();
     expect(tennis.getScore()).toEqual("40 - Love");
   });
+  it ("deberia devolver 'Love - 40' cuando el jugador 2 anota tres puntos", () => {
+    const tennis = new Tennis();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.getScore()).toEqual("Love - 40");
+  });
 });
 
 

@@ -158,9 +158,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6a132401aa640426b08b4a0be0f2d4a10276eb71",
     "commitName": "feat: se muestra el 40-love por los 3 puntos de jugador 1 y love para 0pts de jugador 2",
     "commitTimestamp": 1788402303532,
     "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788402453174,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788402734561,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se agrego y confirmo el mostrar love-40 para cuando el 2do jugador tenga 3pts y el 1er jugador 0",
+    "commitTimestamp": 1788402805051,
+    "testId": 6
   }
 ]
