@@ -69,6 +69,28 @@ describe("Tennis", () => {
     tennis.player2Scores();
     expect(tennis.getScore()).toEqual("Deuce");
   });
+  it ("deberia devolver 'Advantage for Player 1' cuando el jugador 1 anota cuatro puntos y el jugador 2 anota tres puntos", () => {
+    const tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player1Scores();
+    expect(tennis.getScore()).toEqual("Advantage for Player 1");
+  });
+  it ("deberia devolver 'Advantage for Player 2' cuando el jugador 2 anota cuatro puntos y el jugador 1 anota tres puntos", () => {
+    const tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.getScore()).toEqual("Advantage for Player 2");
+  });
 });
 
 

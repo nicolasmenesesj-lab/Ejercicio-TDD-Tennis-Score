@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fc4c541223d84b4174d497fa2a7d318c545d1c34",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:43:17.000Z",
       "message": "feat: se anadio el caso especial deuce",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/fc4c541223d84b4174d497fa2a7d318c545d1c34"
     },
     "stats": {
       "total": 13,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T02:45:02.000Z",
+      "message": "feat: Se anadio el caso especial 2 cuando los 2 jugadores tienen 3 puntos pero uno gana 1 mas para tener el 'Advantage for player #'",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 28,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }

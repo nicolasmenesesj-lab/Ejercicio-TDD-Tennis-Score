@@ -224,9 +224,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fc4c541223d84b4174d497fa2a7d318c545d1c34",
     "commitName": "feat: se anadio el caso especial deuce",
     "commitTimestamp": 1788403398489,
     "testId": 8
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 2,
+    "numTotalTests": 13,
+    "timestamp": 1788403441633,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788403453910,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Se anadio el caso especial 2 cuando los 2 jugadores tienen 3 puntos pero uno gana 1 mas para tener el 'Advantage for player #'",
+    "commitTimestamp": 1788403503583,
+    "testId": 9
   }
 ]
