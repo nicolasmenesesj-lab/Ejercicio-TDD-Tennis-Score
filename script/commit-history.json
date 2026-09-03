@@ -190,17 +190,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "50e632c284778378b2820910d3221752fe1d2e7f",
     "author": "Nico Meneses",
     "commit": {
       "date": "2026-09-03T02:49:48.000Z",
       "message": "feat: Refactorizacion de la logica de negocios completa pasa todos los tests",
-      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/50e632c284778378b2820910d3221752fe1d2e7f"
     },
     "stats": {
       "total": 45,
       "additions": 13,
       "deletions": 32,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nico Meneses",
+    "commit": {
+      "date": "2026-09-03T03:09:27.000Z",
+      "message": "feat: Se agrego el html y se edito el presenter para mostrar la interfaz de el juego de tennis",
+      "url": "https://github.com/nicolasmenesesj-lab/Ejercicio-TDD-Tennis-Score/commit/HEAD"
+    },
+    "stats": {
+      "total": 53,
+      "additions": 32,
+      "deletions": 21,
       "date": "2026-09-03"
     },
     "coverage": 100,
